@@ -49,10 +49,6 @@ Unlike static P&L statements, this solution enables **dynamic drill-down**, tren
 
 ## 🗂️ Dataset Overview
 
-**Source:**  
-Power BI Financial Dataset by SlideScope  
-https://github.com/slidescope/Power-BI-Financial-Dataset-by-SlideScope-for-Data-Science-Projects
-
 ### Why This Dataset Is CFO-Grade
 - Transaction-level granularity (300 rows)
 - Each row = one financial event
